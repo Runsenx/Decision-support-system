@@ -65,9 +65,14 @@ To help sales representative to quickly grasp the overall credit risk, a bar cha
 
 
 
+# Appendix
+
 ## Interface prototype
 
+![image](https://github.com/Runsenx/Decision-support-system/blob/main/good1.png)
+![image](https://github.com/Runsenx/Decision-support-system/blob/main/good2.png)
 ![image](https://github.com/Runsenx/Decision-support-system/blob/main/bad1.png)
+
 
 
 

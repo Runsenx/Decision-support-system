@@ -8,6 +8,8 @@ assist sales representatives in banks and credit card companies in evaluating th
 This app interactive interface uses Python and the Streamlit library and allows users to input applicant information, receive a credit risk assessment, 
 visualize the applicant's risk profile, and obtain personalized advice to help the applicant improve their credit standing.
 
+
+
 # 2. Data Cleaning
 
 ## 2.1. Data Extraction

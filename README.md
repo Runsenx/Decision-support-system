@@ -40,7 +40,7 @@ By setting the solver to 'lsqr' and shrinkage to 'auto,' we performed K-fold tes
 
 
 # 5. Principal Component Analysis (PCA)
-Another essential reason for choosing LDA is that it can reduce data dimensions and extract features through Principal Component Analysis (PCA), providing suggestions for customers classified as 'Bad' in risk assessment. We selected five principal components.
+Another essential reason for choosing LDA is that it can reduce data dimensions and extract features through Principal Component Analysis (PCA), providing suggestions for customers classified as 'Bad' in risk assessment. We selected four principal components.
 
 ## 5.1 Interpretation of Principal Components
 Each principal component is a linear combination of the original features, with the weights (coefficients) indicating the contribution of each original feature to the new principal component. 
